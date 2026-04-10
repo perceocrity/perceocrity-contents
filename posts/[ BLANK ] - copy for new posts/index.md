@@ -33,6 +33,6 @@ params:
 resources:
   - src: <filename> # Does not have to be unique. Path already leads to this dir.
     params:
-      display: true
+      display: false
     #   cover: false  # artifact from hugo gallery theme
 ---
